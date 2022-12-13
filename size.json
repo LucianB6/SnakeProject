@@ -1,0 +1,6 @@
+{
+    "WIDTH": "600",
+    "HEIGTH": "400",
+    "FIRST_OBSTACLE":[2,3],
+    "SECOND_OBSTACLE":[21,14]
+}
